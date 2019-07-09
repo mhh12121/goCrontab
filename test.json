@@ -1,0 +1,6 @@
+{
+    "id":"1",
+    "cmd":"date",
+    "args":[],
+    "interval":1000
+}
